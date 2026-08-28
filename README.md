@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👨‍💻 About Me<br><br>I'm a **Full-Stack Developer** passionate about building modern, scalable, and high-performance web applications.<br><br>💻 **Languages:** JavaScript, TypeScript<br>⚛️ **Frontend:** React, Angular, Next.js<br>🟢 **Backend:** Node.js, Express.js, NestJS<br><br>I enjoy turning ideas into real-world applications, writing clean and maintainable code, and continuously learning new technologies to become a better developer.<br>
 
 
