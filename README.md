@@ -4,6 +4,12 @@
 
 Building modern, scalable, and maintainable web applications with a focus on clean code, performance, and great user experiences.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/fathi-quandil-547b73431/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -22,42 +28,25 @@ Building modern, scalable, and maintainable web applications with a focus on cle
 ### 💡 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js" height="50" alt="TypeScript JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts,js" height="50" alt="TypeScript and JavaScript" />
 </p>
 
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" height="50" alt="React Next.js Angular" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" height="50" alt="React, Next.js and Angular" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="50" alt="Node.js Express NestJS" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="50" alt="Node.js, Express.js and NestJS" />
 </p>
 
 ### 🔧 Tools & Version Control
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" height="50" alt="Git GitHub VS Code Postman npm" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathiquandil&show_icons=true&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathiquandil&layout=compact&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=fathiquandil&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" height="50" alt="Git, GitHub, VS Code, Postman and npm" />
 </p>
 
 ---
