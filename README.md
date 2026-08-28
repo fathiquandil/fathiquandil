@@ -34,7 +34,7 @@ Building modern, scalable, and maintainable web applications with a focus on cle
 ### 🎨 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" height="50" alt="React, Next.js and Angular" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular" height="50" alt="HTML5, CSS3, React, Next.js and Angular" />
 </p>
 
 ### ⚙️ Backend
@@ -54,7 +54,7 @@ Building modern, scalable, and maintainable web applications with a focus on cle
 ## 🚀 My Development Journey
 
 ```text
-Frontend        ████████████████████░░  React • Next.js • Angular
+Frontend        ████████████████████░░  HTML5 • CSS3 • React • Next.js • Angular
 Backend         ████████████████████░░  Node.js • Express • NestJS
 TypeScript      ████████████████████░░  TypeScript • JavaScript
 API Development ███████████████████░░░  REST APIs
